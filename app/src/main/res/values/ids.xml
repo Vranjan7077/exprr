@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="btn_sign_up" />
+    <item type="id" name="btn_login" />
+    <item type="id" name="btn_forgot_password" />
+    <item type="id" name="et_password" />
+    <item type="id" name="et_email" />
+    <item type="id" name="et_full_name" />
+    <item type="id" name="et_phone" />
+    <item type="id" name="et_country_code" />
+    <item type="id" name="et_class" />
+    <item type="id" name="et_confirm_password" />
+</resources>
